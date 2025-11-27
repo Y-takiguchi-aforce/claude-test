@@ -1,0 +1,22 @@
+{
+  "name": "claude-test",
+  "version": "1.0.0",
+  "description": "Claude Code テスト用リポジトリ - ログ出力機能付き",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "node example.js",
+    "log-demo": "node example.js"
+  },
+  "keywords": [
+    "claude",
+    "logging",
+    "test",
+    "japanese"
+  ],
+  "author": "Claude Code",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
